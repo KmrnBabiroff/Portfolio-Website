@@ -31,10 +31,10 @@ html,body{
     justify-content: space-between;
     height: 80px;
     z-index: 1;
-    width: 100%;
+    width: auto;
     max-width: 1300px;
     margin: 0 auto;
-    padding: 0 50px;
+    padding: 10 50px;
 }
 
 #navbar_logo{
@@ -147,7 +147,7 @@ html,body{
     margin: 0 auto;
     height: 90vh;
     z-index: 1;
-    width: 100%;
+    width: auto;
     max-width: 1300px;
     padding: 0 50px;
 }
