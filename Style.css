@@ -157,7 +157,7 @@ html,body{
     background-color: #ffd60a;
     background-image: linear-gradient(to top, #ff740a 0%, #ffd60a);
     background-size: 100%;
-    transition: all 0.35s ease-in;
+    transition: 0.9s ease-in-out;
     cursor: pointer;
 
     -webkit-background-clip: text;
@@ -325,4 +325,11 @@ ul{
 }
 @media (max-width: 768px) {
     /* Mobil için stil */
+}
+.Babir span {
+    text-shadow: 0 0 25px var(#c5a506ca);
+
+}
+.Babir:hover {
+    transform: scale(1.1);
 }
